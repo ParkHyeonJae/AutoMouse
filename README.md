@@ -1,0 +1,2 @@
+# AutoMouse
+WIndows AutoMouse Program
